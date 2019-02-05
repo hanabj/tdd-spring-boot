@@ -7,11 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="tdd-02-02-project-end" />
-        <module name="tdd-05-01-project-end" />
+        <module name="tdd-05-02-project-end" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="tdd-04-03-project-end" target="1.8" />
+      <module name="tdd-05-01-project-end" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
